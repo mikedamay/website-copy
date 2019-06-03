@@ -54,7 +54,7 @@ _Update: We have called this the [Mentor-Learner Relationship Project](https://g
 
 ### 4. Improve documentation and onboarding for mentors
 
-Over 50% of people who sign up to mentor do not go on to mentor any solutions. I recently emailed all of those who had done this. Nearly 1/3 replied with various explanations, but a clear underlying theme is that getting a mentor to give feedback on their first solution quickly and with enough hand-holding would dramatically increase the number of people who try mentoring. Providing guides and information that help upskill those mentors and give them a further safety net would significantly increase their retention.
+Over 50% of people who sign up to mentor do not go on to mentor any solutions. I recently emailed all of those who had done this. Nearly 1/3 replied with various explanations, but a clear underlying theme is that getting an existing mentor to provide support on a newbee's first solution by way of hand holding and quick feedback would dramatically increase the number of people who try mentoring.   Providing guides and information that help upskill those mentors and give them a further safety net would significantly increase their retention.
 
 ### 5. Empower our mentors into a self-supporting community
 
