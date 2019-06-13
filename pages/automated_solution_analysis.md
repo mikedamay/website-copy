@@ -1,6 +1,6 @@
 ### What is it?
 
-We algorithmically analyse solutions to certain exercises to look for optimal solutions, which we can then instantly approve allowing students to move on to the next exercise without delay.
+We algorithmically analyse solutions to certain exercises to look for optimal solutions, which we can then instantly approve allowing students (who are in "mentored" mode) to move on to the next exercise without delay.
 
 ### How does it work?
 
